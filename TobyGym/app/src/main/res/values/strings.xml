@@ -1,0 +1,52 @@
+<resources>
+
+
+    <string name="app_name">TobyGym</string>
+    <string name="title_activity_work_out_screen">WorkOutScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_navigation">MainNavigationActivity</string>
+    <string name="result_text_default">Please focus camera to QR code</string>
+
+    <array name="cardioActivities">
+        <item>Please Choose an Activity</item>
+        <item>Jogging</item>
+        <item>Running</item>
+        <item>Cycling Fast</item>
+        <item>Cycling Slow</item>
+        <item>Swimming Fast</item>
+        <item>Swimming Slow</item>
+    </array>
+
+    <array name="strengthActivities">
+        <item>Please Choose an Activity</item>
+        <item>Flat Barbell Bench Press</item>
+        <item>Overhead Press</item>
+        <item>Incline Dumbell Bench Press</item>
+        <item>Lateral Dumbell Raises</item>
+        <item>Parallel Bar Tricep Dip</item>
+        <item>Sat Down Tricep Press</item>
+        <item>Seated Dumbell Press</item>
+        <item>Deadlift</item>
+        <item>Dumbell Curl</item>
+        <item>Lat Pulldown</item>
+        <item>Barbell Curl</item>
+        <item>Seated Cable Row</item>
+        <item>Pull Ups</item>
+        <item>Barbell Row</item>
+        <item>Barbell Squat</item>
+        <item>Seated Calf Raise Machine</item>
+        <item>Leg Press</item>
+        <item>Leg Extension Machine</item>
+        <item>Lying Leg Curl Machine</item>
+        <item>Lunges</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

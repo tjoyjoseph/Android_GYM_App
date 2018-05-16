@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780012218511",
+    "firebase_url": "https://fitnessappmpd.firebaseio.com",
+    "project_id": "fitnessappmpd",
+    "storage_bucket": "fitnessappmpd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780012218511:android:3f068efe0014983d",
+        "android_client_info": {
+          "package_name": "com.example.tobyjoseph.gym4allapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780012218511-nabmf400iogoer07c38qgfh9ef0oe57g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tobyjoseph.gym4allapp",
+            "certificate_hash": "a0374a9b779c9af0983b5334c7af7d3c23a447ef"
+          }
+        },
+        {
+          "client_id": "780012218511-v9i2btp5idkrig8e2jmt80mh9sjoa1sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGxs14K877hHRRWJQ1zg2fW6_WJTGBSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780012218511-v9i2btp5idkrig8e2jmt80mh9sjoa1sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

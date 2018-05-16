@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Gym Routine" />
+
+    <item android:title="Activities">
+    <menu>
+        <item
+            android:id="@+id/nav_strength"
+            android:icon="@drawable/ic_fitness"
+            android:title="Strength" />
+        <item
+            android:id="@+id/nav_cardio"
+            android:icon="@drawable/ic_cardio"
+            android:title="Cardio" />
+        <item
+            android:id="@+id/nav_steps"
+            android:icon="@drawable/ic_walk"
+            android:title="Step Counter" />
+
+    </menu>
+    </item>
+
+    <item android:title="Gym Options">
+        <menu>
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@drawable/ic_tutorials"
+            android:title="Tutorials" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_scan"
+            android:title="Enable Scan" />
+
+        <item
+            android:id="@+id/nav_gymfinder"
+            android:icon="@drawable/ic_map"
+            android:title="Gym Finder" />
+
+        <item
+            android:id="@+id/nav_logOut"
+            android:icon="@drawable/ic_logout"
+            android:title="Log Out" />
+        </menu>
+
+    </item>
+
+
+
+</menu>
