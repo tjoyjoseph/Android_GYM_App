@@ -28,12 +28,12 @@ public class GymRoutineFragment extends Fragment {
         // Inflate the layout for this fragment
 
         myView = inflater.inflate(R.layout.fragment_gym_routine, container, false);
-        getActivity().setTitle("About Us");
+        getActivity().setTitle("Gym Routine");
 
         pdfView = (PDFView) myView.findViewById(R.id.pdfViewer);
         pdfView.setPositionOffset(0);
         //pdfView.zoomTo(pdfView.getMaxZoom());
-        pdfView.fromAsset("Gym4All_About_us.pdf").onRender(new OnRenderListener() {
+        pdfView.fromAsset("GymRoutine.pdf").onRender(new OnRenderListener() {
             @Override
             public void onInitiallyRendered(int nbPages, float pageWidth, float pageHeight) {
                 pdfView.fitToWidth();
